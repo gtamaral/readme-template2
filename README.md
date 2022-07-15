@@ -79,7 +79,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://github.com/r4ulzito.png" width="160px;" alt="Foto do Raul de Souza no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Raul de Souza</b>
         </sub>
       </a>
     </td>
