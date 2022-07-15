@@ -20,17 +20,6 @@ O site tem no total X páginas, sendo elas:
 - **Example 4:** Lorem ipsum dolor sit amet.
 - **Example 5:** Lorem ipsum dolor sit amet.
 
-## ⚔️ Desafio
-
-:heavy_check_mark: Desafio 1\
-:x: Desafio 2\
-:x: Desafio 3\
-:x: Desafio 4\
-:x: Desafio 5\
---- ⚙️ Extra ---\
-:heavy_check_mark: Desafio 1\
-:x: Desafio 2
-
 ## 🎯 Etapas
 
 :heavy_check_mark: Etapa 1\
@@ -52,6 +41,20 @@ O site tem no total X páginas, sendo elas:
 
 - (EMOJI) [Example 1](https://www.linkedin.com/in/raul-de-souza/)
 - (EMOJI) [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+
+## 📔 Conhecimentos utilizados
+
+- [x] Uso semântico do HTML
+- [x] Integração com a API do TMDB ao usar o `fetch`
+- [x] Criação de elementos dinamicos com o uso do `createElement`
+- [x] Estrutura de variavei globais no script
+- [x] Uso de variáveis globais no `:root`
+- [x] Menu interativo
+- [x] Melhorias na performace de carregamento
+- [x] Adicionar favicon
+- [x] Marcar o filme ativo
+- [x] Evento para adicionar um filme
+- [x] Responsividade da aplicação com `@media`
 
 ## :closed_book: Como usar?
 
