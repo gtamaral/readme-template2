@@ -42,7 +42,7 @@ O site tem no total X páginas, sendo elas:
 - (EMOJI) [Example 1](https://www.linkedin.com/in/raul-de-souza/)
 - (EMOJI) [Example 2](https://www.linkedin.com/in/raul-de-souza/)
 
-## 📔 Conhecimentos utilizados
+## 📔 Conhecimentos Utilizados
 
 - [x] Uso semântico do HTML
 - [x] Integração com a API do TMDB ao usar o `fetch`
