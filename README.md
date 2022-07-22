@@ -6,7 +6,7 @@
 
 🗔 Confira a aplicação: https://www.linkedin.com/in/raul-de-souza/ <br>
 
-## :page_facing_up: Explicação
+## 📄 Explicação
 
 Explicação de como funciona o projeto, os components utilizados, ideia do projeto, etc...
 
@@ -22,13 +22,13 @@ O site tem no total X páginas, sendo elas:
 
 ## 🎯 Etapas
 
-:heavy_check_mark: Etapa 1\
-:heavy_check_mark: Etapa 2\
-:heavy_check_mark: Etapa 3\
-:heavy_check_mark: Etapa 4\
-:heavy_check_mark: Etapa 5\
-:heavy_check_mark: Etapa 6\
-:x: Projeto Finalizado
+✔️ Etapa 1\
+✔️ Etapa 2\
+✔️ Etapa 3\
+✔️ Etapa 4\
+✔️ Etapa 5\
+✔️ Etapa 6\
+❌ Projeto Finalizado
 
 ## 🚀 Tecnologias
 
@@ -44,19 +44,10 @@ O site tem no total X páginas, sendo elas:
 
 ## 📔 Conhecimentos Utilizados
 
-- [x] Uso semântico do HTML
-- [x] Integração com a API do TMDB ao usar o `fetch`
-- [x] Criação de elementos dinamicos com o uso do `createElement`
-- [x] Estrutura de variavei globais no script
-- [x] Uso de variáveis globais no `:root`
-- [x] Menu interativo
-- [x] Melhorias na performace de carregamento
-- [x] Adicionar favicon
-- [x] Marcar o filme ativo
-- [x] Evento para adicionar um filme
-- [x] Responsividade da aplicação com `@media`
+✅ Uso semântico do HTML\
+✅ Integração com a API do TMDB ao usar o `fetch`
 
-## :closed_book: Como usar?
+## 📕 Como usar?
 
 Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
@@ -95,4 +86,6 @@ Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para o
 
 &#xa0;
 
-<a href="#top">Volte para o topo</a>
+<div align="center">
+  <a href="#top">Volte para o topo</a>
+</div>
