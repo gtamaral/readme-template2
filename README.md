@@ -1,6 +1,8 @@
 <h1 align="center">(EMOJI) TÍTULO DO PROJETO</h1>
 
-<img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+<div align="center">
+  <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+</div>
 
 > 🔎 Descrição do projeto (1 a 3 linhas)
 
@@ -41,6 +43,11 @@ O site tem no total X páginas, sendo elas:
 
 - (EMOJI) [Example 1](https://www.linkedin.com/in/raul-de-souza/)
 - (EMOJI) [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+
+## 📚 Bibliotecas Usadas
+
+- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
+- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
 
 ## 📔 Conhecimentos Utilizados
 
